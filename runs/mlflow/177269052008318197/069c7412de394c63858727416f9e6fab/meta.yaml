@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/2026/solar/solar/runs/mlflow/177269052008318197/069c7412de394c63858727416f9e6fab/artifacts
+end_time: 1758270197471
+entry_point_name: ''
+experiment_id: '177269052008318197'
+lifecycle_stage: active
+run_id: 069c7412de394c63858727416f9e6fab
+run_name: train
+run_uuid: 069c7412de394c63858727416f9e6fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758264693704
+status: 3
+tags: []
+user_id: HPC-SOFTWARE
